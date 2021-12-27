@@ -93,7 +93,7 @@
   </a>
 </p>
 
-<h3 align="center">cloud & hosting:</h3>
+<h3 align="center">cloud & hosting</h3>
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
